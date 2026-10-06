@@ -7,6 +7,7 @@ This repository contains my preparation for the Certified Kubernetes Administrat
 CKA is a professional certification that validates the skills required to install, configure, and manage Kubernetes clusters.
 
 ---
+---
 
 ## Purpose
 
