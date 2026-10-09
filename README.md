@@ -8,8 +8,6 @@ CKA is a professional certification that validates the skills required to instal
 
 ---
 --
----
-
 ## Purpose
 
 The goal of this repository is to:
