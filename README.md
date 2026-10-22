@@ -17,6 +17,7 @@ The goal of this repository is to:
 - Learn Kubernetes administration
 - Store YAML configuration files
 - Document troubleshooting and solutions
+- 
 
 ---
 
