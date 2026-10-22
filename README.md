@@ -19,7 +19,7 @@ The goal of this repository is to:
 - Document troubleshooting and solutions
 - 
 
----
+---o
 
 
 ## What is CKA
